@@ -25,7 +25,7 @@ app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
 
 
-engine = create_engine(os.getenv(DATABASE_URL))
+engine = create_engine(os.getenv("DATABASE_URL"))
 db = scoped_session(sessionmaker(bind=engine))
 key = os.getenv("KEY")
 
