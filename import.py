@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy.orm import scoped_session, sessionmaker
 
 engine = create_engine(
-    "postgresql://tbrs:1610@localhost:5432/bookrv"
+    "postgres://tbrs_tt66_user:XWiTLOa1EDSwpqEu7JEXdUO23rRA5Fo8@dpg-cmmmqff109ks739a9a2g-a/tbrs_tt66"
 )
 db = scoped_session(sessionmaker(bind=engine))
 
