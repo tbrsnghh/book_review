@@ -1,6 +1,5 @@
 # Book Reviews
 
-
 ## Overview
 
 Đây là đồ án nhỏ của mình.
@@ -14,7 +13,8 @@ Và sử dụng Open Library Book API để tra cứu thông tin về sách cũn
 * Đăng ký, đăng nhập, đăng xuất
 * Tìm kiếm sách
 * Trang sách với review, đánh giá, bình luận
+
 # Những điều học được
-	Tuy chỉ là một bài tập đơn giản, nhưng nó giúp mình hiểu cách xây dựng một trang web nhanh với flask framework, tiếp đó là việc kết nốt dữ liệu từ cơ sở dữ liệu Postgres, và sau cùng là tương tác với các API, cách thức nó hoạt động thế nào.
-	Việc xây dựng trang web này giúp mình củng cố được kiến thức, luyện tập khả năng giải quyết các vấn đề khi lỗi xảy ra, và về kiến thức lập trình của mình.
+Tuy chỉ là một bài tập đơn giản, nhưng nó giúp mình hiểu cách xây dựng một trang web nhanh với flask framework, tiếp đó là việc kết nốt dữ liệu từ cơ sở dữ liệu Postgres, và sau cùng là tương tác với các API, cách thức nó hoạt động thế nào.
+Việc xây dựng trang web này giúp mình củng cố được kiến thức, luyện tập khả năng giải quyết các vấn đề khi lỗi xảy ra, và về kiến thức lập trình của mình.
 
